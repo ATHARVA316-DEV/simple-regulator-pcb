@@ -47,6 +47,11 @@ This project demonstrates basic voltage regulation, PCB layout practices, and co
 ---
 
 ## Project Images
+## Custom Etched PCB
+
+Below is the manually fabricated PCB for the Simple Regulator project.  
+The board was created using the **chemical etching method on an FR4 copper board**.
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/c484e336-1481-4ca8-b0b2-dd64e7a7a45d" />
 
 ### Circuit Schematic
 <img width="621" height="249" alt="image" src="https://github.com/user-attachments/assets/c43c932c-12e4-4b57-b873-7a3b083882e7" />
